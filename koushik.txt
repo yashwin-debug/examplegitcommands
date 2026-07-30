@@ -1,2 +1,6 @@
 kl university
+<<<<<<< HEAD
 what are you coding?
+=======
+koushik is a swimmer
+>>>>>>> 323d229a0302cd22d9031a15c9c71ab9675bfaeb

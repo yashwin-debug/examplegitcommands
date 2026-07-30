@@ -1,10 +1,19 @@
 karanam lakshmi narayana
+<<<<<<< HEAD
+hi mahija
+=======
 
-
+iam super superr happyyyyyyy
 
 
 i am happy
 
+nicee
 
+<<<<<<< HEAD
 jhbgvgf
 goodd
+=======
+goodd
+>>>>>>> 411dfd37efdd287fc098a8a53884cbdfd9ae2ef2
+>>>>>>> c6a1a72124d780edd7846db3bb8728d018b7a487
